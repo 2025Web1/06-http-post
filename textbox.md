@@ -18,7 +18,9 @@
 **input.php**
 ![](./images/input_php_display.png)
 
-※POSTメソッドで送信した場合、URL末尾にデータ(クエリパラメータ)は表示されません。
+```note
+POSTメソッドで送信した場合、URL末尾にデータ(クエリパラメータ)は表示されません。
+```
 
 **input.html**
 
