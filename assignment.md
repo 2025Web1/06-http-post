@@ -97,7 +97,7 @@ pushした課題が合格したかはpush後に必ず確認してください。
 
 ### ◆合格確認方法
 
-1. [本章リモートリポジトリ]()にアクセス<br>
+1. [本章リモートリポジトリ](https://classroom.github.com/a/LVQv1Bpr)にアクセス<br>
 2. 画面上部にある`Actions`をクリック<br>
    ![](./images/actions.png){: style="width: 660px;height: auto;" }
 3. **一番上**の行のタイトル横に、緑色のチェックが入っていればOK<br>
