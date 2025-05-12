@@ -33,7 +33,7 @@ sort: 2
         <input type="radio" name="fruit" value="オレンジ">オレンジ
         <input type="radio" name="fruit" value="リンゴ" checked>リンゴ
         <input type="radio" name="fruit" value="メロン">メロン
-        <input type="submit"  name="submit" value="送信">
+        <input type="submit" name="submit" value="送信">
     </form>
 </body>
 

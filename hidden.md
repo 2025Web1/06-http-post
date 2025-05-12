@@ -29,7 +29,7 @@ sort: 4
     <p>何が隠されているのでしょうか？</p>
     <form method="POST" action="hidden.php">
         <input type="hidden" name="data" value="PHP">
-        <input type="submit"  name="submit"　value="送信">
+        <input type="submit" name="submit" value="送信">
     </form>
 </body>
 

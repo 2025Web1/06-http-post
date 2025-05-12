@@ -32,7 +32,7 @@ sort: 3
         <input type="checkbox" name="fruits[ ]" value="オレンジ">オレンジ
         <input type="checkbox" name="fruits[ ]" value="リンゴ">リンゴ
         <input type="checkbox" name="fruits[ ]" value="メロン">メロン
-        <input type="submit"  name="submit"　value="送信">
+        <input type="submit" name="submit" value="送信">
     </form>
 </body>
 
