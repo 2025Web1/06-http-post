@@ -42,7 +42,7 @@ POSTメソッドで送信した場合、URL末尾にデータ(クエリパラメ
   <form method="POST" action="input.php"> <!-- ① -->
     氏名：<input type="text" name="name"><br> <!-- ② -->
     年齢：<input type="text" name="age"><br> <!-- ③ -->
-    <input type="submit" value="送信">  <!-- ④ -->
+    <input type="submit" name="submit" value="送信">  <!-- ④ -->
   </form>
 </body>
 

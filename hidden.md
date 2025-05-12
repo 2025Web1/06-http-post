@@ -29,7 +29,7 @@ sort: 4
     <p>何が隠されているのでしょうか？</p>
     <form method="POST" action="hidden.php">
         <input type="hidden" name="data" value="PHP">
-        <input type="submit" value="送信">
+        <input type="submit"  name="submit"　value="送信">
     </form>
 </body>
 
@@ -59,7 +59,7 @@ sort: 4
 </html>
 ```
 
-## 付録: hiddenの詳細
+## 補足: hiddenの詳細
 
 フォームの送信時に、ブラウザに非表示のデータをサーバーに送信することができます。ユーザーには表示されないため、UIの見栄えを損ねずに必要なデータを送信できます。
 
