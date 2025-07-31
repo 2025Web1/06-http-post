@@ -147,7 +147,9 @@ sort: 7
     <h4>テキストエリア練習課題</h4>
     <p>入力された文章は、つぎのとおりです。</p>
     <?php
-    echo '<p>' . $_POST['input_text'] . '</p>';
+    // 【補習用穴埋め】$_POST['　　　　　']の'　　　　　'部分を埋めてください。
+    // ヒント：textareaのname属性を確認してください。
+    echo '<p>' . $_POST['          '] . '</p>';
     ?>
     <a href='textarea.html'>戻る</a>
 
